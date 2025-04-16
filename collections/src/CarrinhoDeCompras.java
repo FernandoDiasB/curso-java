@@ -53,7 +53,6 @@ public class CarrinhoDeCompras {
         System.out.println(" ");
         carrinhoDeCompras.exibirItens();
         System.out.println(" ");
-        System.out.println("");
         System.out.printf("O valor da sua compra é: R$ %.2f\n", carrinhoDeCompras.calcularValorTotal());
     }
 }
